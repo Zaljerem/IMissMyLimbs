@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistLostFingerToe" or defName="IMissMyLimb_ColonistLostMultipleFingersToes"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistLostArm" or defName="IMissMyLimb_ColonistLostBothArms"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistLostLeg" or defName="IMissMyLimb_ColonistLostBothLegs"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+  <!-- Prosthetic Limb Thoughts -->
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistGotProstheticFingerToe" or defName="IMissMyLimb_ColonistGotMultipleProstheticFingersToes" or defName="IMissMyLimb_ColonistGotArchotechFingerToe"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+  <!-- Single and Double Prosthetic Arm Thoughts -->
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistGotProstheticArm" or defName="IMissMyLimb_ColonistGotBothProstheticArms"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistGotBionicArm" or defName="IMissMyLimb_ColonistGotBothBionicArms"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistGotArchotechArm" or defName="IMissMyLimb_ColonistGotBothArchotechArms"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+  <!-- Single and Double Prosthetic Leg Thoughts -->
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistGotProstheticLeg" or defName="IMissMyLimb_ColonistGotBothProstheticLegs"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistGotBionicLeg" or defName="IMissMyLimb_ColonistGotBothBionicLegs"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistGotArchotechLeg" or defName="IMissMyLimb_ColonistGotBothArchotechLegs"]</xpath>
+        <value>
+            <nullifyingGenes>
+              <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
+              <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+            </nullifyingGenes>
+        </value>
+    </Operation>
+
+</Patch>
