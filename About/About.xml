@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>I Miss My Limbs (Continued)</name>
+    <author>Zaljerem</author>
+    <supportedVersions><li>1.6</li></supportedVersions>
+    <packageId>zal.imissmylimbs</packageId>
+	<modDependencies> 
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+</modDependencies>	
+  <loadBefore />   
+  <loadAfter />	
+<modVersion IgnoreIfNoMatchingField="True">1.0.0</modVersion>
+  	<description>
+Original mod by Lewkah0
+https://steamcommunity.com/sharedfiles/filedetails/?id=3301381349
+If the original author requests it, I will remove this update.
+
+--
+
+I've improved the logic and hardened the Harmony patches and utilities with appropriate null checks.
+
+--
+
+Original mod notes (1.5):
+
+Ever feel that your colonists don't quite react appropriately to losing limbs or getting them replaced with prosthetics? 
+With this mod, they will! Your pawns will now experience a sense of loss and sadness when they lose fingers, toes, arms, or legs. 
+Conversely, they will also feel a sense of relief and happiness when those lost parts are replaced or upgraded with prosthetics.
+</description>
+</ModMetaData>
