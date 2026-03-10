@@ -12,8 +12,11 @@
     </li>
 </modDependencies>	
   <loadBefore />   
-  <loadAfter />	
-<modVersion IgnoreIfNoMatchingField="True">1.0.0</modVersion>
+  <loadAfter>
+	<li>Sarg.AlphaGenes</li>
+	<li>RedMattis.BigSmall.Core</li>
+  </loadAfter>
+<modVersion IgnoreIfNoMatchingField="True">1.0.1</modVersion>
   	<description>
 Original mod by Lewkah0
 https://steamcommunity.com/sharedfiles/filedetails/?id=3301381349
