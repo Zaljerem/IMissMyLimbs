@@ -2,7 +2,7 @@
 <Patch>
 
     <Operation Class="PatchOperationAdd">
-        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistLostFingerToe" or defName="IMissMyLimb_ColonistLostMultipleFingersToes"]/</xpath>
+        <xpath>Defs/ThoughtDef[defName="IMissMyLimb_ColonistLostFingerToe" or defName="IMissMyLimb_ColonistLostMultipleFingersToes"]</xpath>
         <value>
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
