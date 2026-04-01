@@ -7,6 +7,8 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
+              <li MayRequire="breadmo.cinders">Cinder_Regeneration</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -17,6 +19,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -27,6 +30,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -39,6 +43,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -51,6 +56,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -61,6 +67,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -71,6 +78,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -83,6 +91,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -93,6 +102,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
@@ -103,6 +113,7 @@
             <nullifyingGenes>
               <li MayRequire="Sarg.AlphaGenes">AG_LimbRegeneration</li>
               <li MayRequire="RedMattis.BigSmall.Core">BS_Fast_TotalHealing</li>
+              <li MayRequire="vanillaquestsexpanded.ancients">VQEA_SelfRepairingTissue</li>
             </nullifyingGenes>
         </value>
     </Operation>
